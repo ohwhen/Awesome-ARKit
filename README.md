@@ -21,6 +21,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) - Changed the default ARKit project to draw a line where the camera is positioned
 * [ARKit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) - ARKit based tic-tac-toe with a decent AI opponent
 * [ARShooter](https://github.com/farice/ARShooter) - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
+* [ARStack](https://github.com/XanderXu/ARStack) - AR version Stack game with ARKit in Swift
 * [ARRubiks](https://github.com/Nicholas714/ARRubiks) - A Rubik's Cube that you can put on a table
 * [ARTetris](https://github.com/exyte/ARTetris) - Augmented Reality Tetris made with ARKit and SceneKit
 * [ARText](https://github.com/markz-nyc/ARText) - ARText render 3D Text/caption in real world by using ARKit
@@ -64,7 +65,10 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-Multiplayer](https://github.com/eugenebokhan/ARKit-Multiplayer) - ARKit Multiplayer example app.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [uARKit](https://github.com/mustafaatalar/uARKit) - Framework to simplify and improve usage of ARKit for non-AR developers
-
+* [NextLevel](https://github.com/nextlevel/NextLevel) – Open Source ARKit Media Capture in Swift.
+* [Findme](https://github.com/mmoaay/Findme) – Using ARKit to find me.
+* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) – This library uses ARKit Face Tracking in order to catch a user's smile.
+* [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) - Create an environment map from the camera feed to achieve realistic lighting and reflections.
 
 # AppStore
 
@@ -94,6 +98,10 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Magic Sudoku](https://itunes.apple.com/us/app/magic-sudoku/id1286979959) - Solve Sudoku puzzles in realtime (uses CoreML, Vision, and ARKit to create a seamless experience).
 * [Arcane Maze](https://itunes.apple.com/app/id1278819229) - Find your way out of maze.
 * [Waazy](https://itunes.apple.com/us/app/waazy-magic-ar-video-maker/id1286992749) - Waazy is an augmented reality short video clips shooting and sharing app, making it possible to bring virtual characters and objects to the real world
+* [Gruesome Gotham](https://itunes.apple.com/us/app/gruesome-gotham/id1299224537) - Murder! Mystery! Intrigue! Get a glimpse at New York City’s 19th century crime scenes using augmented reality. Travel between six murderous moments on the map and see the deadly deeds unfold right before your eyes.
+* [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
+* [Floto](https://itunes.apple.com/us/app/flotogram/id1300137329) - Flotogram is a fully featured AR Photography and Video app that places your photos directly into an Augmented Reality scene around you.
+
 # Tutorials
 
 * [Apple ARKit by Example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
@@ -117,6 +125,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Augmented Reality With ARKit: Detecting Planes](https://digitalleaves.com/blog/2017/10/augmented-reality-with-arkit-detecting-planes/)
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * [Place Objects In Augmented Reality Via ARKit](https://digitalleaves.com/blog/2017/11/augmented-reality-arkit-placing-objects/)
+* [Importing 3D Models for ARKit](https://medium.com/bpxl-craft/importing-3d-models-for-arkit-aa1728697e2)
 
 # Resources
 
